@@ -1,5 +1,4 @@
 # Life Below Water (SDG 14)
-[https://mukulchauuhan.github.io/life-below-water.github.io/](https://mukulchauuhan.github.io/life-below-water.github.io/) <br/>
 This project aims to promote awareness and action towards Sustainable Development Goal 14: Life Below Water. The website provides educational content, interactive features, and engaging visuals to highlight the importance of conserving and sustainably using the oceans, seas, and marine resources.
 
 ## Table of Contents
@@ -38,6 +37,4 @@ To get a local copy up and running, follow these steps:
 2. Navigate to the project directory:
     ```sh
     cd life-below-water
-## Usage
 
-Visit - https://mukulchauuhan.github.io/life-below-water.github.io/ to see the website.
